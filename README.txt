@@ -1,6 +1,1 @@
-READ ME
-<<<<<<< HEAD
-balls
-another pair
-=======
-
+Destructed AFTER 24H
